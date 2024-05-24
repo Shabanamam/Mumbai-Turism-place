@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <imageurl>Historical place/Elephanta1.jpg</imageurl>
+    <alternatetext>Elephanta Caves</alternatetext>
+    <nevegateurl>Anti aging.aspx</nevegateurl>
+  </Ad>
+  <Ad>
+    <imageurl>Historical place/Elephanta2.jpg</imageurl>
+    <alternatetext>Elephanta Caves</alternatetext>
+    <nevegateurl>Anti aging.aspx</nevegateurl>
+  </Ad>
+  <Ad>
+    <imageurl>Historical place/Elephanta3.jpg</imageurl>
+    <alternatetext>Elephanta Caves</alternatetext>
+    <nevegateurl>Anti aging.aspx</nevegateurl>
+  </Ad>
+  <Ad>
+    <imageurl>Historical place/Elephanta4.jpg</imageurl>
+    <alternatetext>Elephanta Caves</alternatetext>
+    <nevegateurl>Anti aging.aspx</nevegateurl>
+  </Ad>
+
+</Advertisements>
+<?xmlz version="1.0" encoding="utf-8" ?>
